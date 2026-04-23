@@ -1,14 +1,4 @@
-2 commits is fine. Let me write you a professional README now — and yes you should add one before submitting, it makes the repo look much more professional.
 
----
-
-## Add this README to GitHub:
-
-**Click "Add a README"** on that page, then paste this entire text:
-
----
-
-```
 # Analysis of Optimal Search Algorithm Implementations by Exact-Time Modelling
 
 **Author:** Jaten Tushar Chikhale | **SID:** 2314864  
